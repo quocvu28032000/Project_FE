@@ -1,0 +1,39 @@
+{
+	"folders": [
+		{
+			"name": "f8 html",
+			"path": "..\\..\\..\\Documents\\f8 html"
+		},
+		{
+			"name": "css trong html",
+			"path": "..\\..\\..\\Documents\\css trong html"
+		},
+		{
+			"name": "vudz",
+			"path": "..\\..\\vudz"
+		},
+		{
+			"name": "họctrenlop",
+			"path": "..\\..\\họctrenlop"
+		},
+		{
+			"name": "f8-shop-web",
+			"path": "..\\..\\f8-shop-web"
+		},
+		{
+			"name": "responsive",
+			"path": "..\\..\\responsive"
+		},
+		{
+			"name": "t3h",
+			"path": "..\\..\\javascrip\\t3h"
+		},
+		{
+			"name": "Phần 2 - Làm quen",
+			"path": "..\\..\\javascrip\\Phần 2 - Làm quen"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "t3h"
+	}
+}

@@ -1,0 +1,24 @@
+.btn-cell{
+    width: 40px;
+    height: 40px;
+    transition: transform 200ms;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: transparent;
+    border-radius: 20%;
+}
+
+.btn-cell:hover{
+    transform: scale(1.1);
+}
+td{
+    padding: 0;
+}
+
+.cell-x{
+    color: blue;
+}
+
+.cell-o{
+    color: red;
+}
